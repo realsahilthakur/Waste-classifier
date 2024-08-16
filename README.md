@@ -13,6 +13,13 @@ And if the User is infront of the camera than it will show a Message on the scre
 The Smart Waste Classification System represents a significant step towards automating and enhancing waste management processes using computer vision and AI. By providing real-time feedback and guidance, it can play a crucial role in improving recycling practices and contributing to environmental sustainability. While the system has some limitations, future enhancements and integrations offer promising opportunities for broader application and impact.
 
 
+![waste drawio (1)](https://github.com/user-attachments/assets/e11328f2-9d9d-46a7-b90e-acc6d83ad576)
+
+
+
+
+
+
 
 Conclusion in Points
 - The Smart Waste Management System offers an innovative solution to modern waste disposal challenges by integrating AI, IoT, and user-friendly interfaces.
